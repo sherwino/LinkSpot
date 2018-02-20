@@ -1,11 +1,11 @@
 # LinkSpot
 
-Just a repo with a bunch of links and resources that I have used over the years to bring me up to speed with this Full Stack Web Development thing. While nothing is going to ever beat https://devdocs.io/ (*one of the greatest sites ever created*) I aim just to organize my thoughts and resources in one place so that I could easily refer back to them.
+Just a repo with a bunch of links and resources that I have used over the years to bring me up to speed with this Full Stack Web Development thing. While nothing is going to ever beat [https://devdocs.io/](https://devdocs.io/) (*one of the greatest sites ever created*) I aim just to organize my thoughts and resources in one place so that I could easily refer back to them.
 
 ## Topics Covered
 
-1. JavaScript
-    - Node
+1. [JavaScript](./docs/javascript/js.md)
+    - [Node](./docs/javascript/node.md)
     - Express
     - Hapi
     - JQuery
@@ -22,4 +22,4 @@ Just a repo with a bunch of links and resources that I have used over the years 
 11. HTML
 12. CSS
 13. Environment
-14. Terminal
+    - Terminal
